@@ -1,3 +1,4 @@
+
 package com.example.stockapp
 
 import android.view.LayoutInflater
